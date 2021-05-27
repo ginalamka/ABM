@@ -13,11 +13,11 @@ steps:
 1. Create a for loop for 50 years (time)
   1. Age the population (start at -1 - 3)
   1. Introduce mortality (density independent and dependent)
-    1. Age-related mortality (at age 4)
+      1. Age-related mortality (at age 4)
   1. Make some babies
   1. Output for every year
-    1. Pop size
-    1. Sex ratio
-    1. # newborns
+      1. Pop size
+      1. Sex ratio
+      1. # newborns
 1. Close loops for time and replication
 1. Summarize parameters/output and put into text file for later
